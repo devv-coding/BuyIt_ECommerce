@@ -1,6 +1,13 @@
 # BuyIt_ECommerce
 E-commerce Fullstack Application
+
+
+
 Features: User authentication, product catalog, cart management, and secure checkout, integrated Paypal payment gateway
+
+
+
+
 Frontend: HTML5, CSS3, Bootstrap5
 Backend: Python, Django
 API: Django Framework
