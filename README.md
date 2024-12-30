@@ -1,10 +1,6 @@
 # BuyIt_ECommerce
 E-commerce Fullstack Application
-
-
-
-Features: User authentication, product catalog, cart management, and secure checkout, integrated Paypal payment gateway
-
+A fully functional ecommerce website with both registered user and guest shopping and checkout capabilities, product catalogue, shopping cart management, secure checkout alongwith Payment gateway integration
 
 
 
