@@ -1,6 +1,6 @@
 # BuyIt_ECommerce
 E-commerce Fullstack Web Application
-A fully functional ecommerce website with both registered user and guest shopping and checkout capabilities, product catalogue, shopping cart management, secure checkout alongwith Payment gateway integration
+A fully functional ecommerce website with both registered user and guest shopping and checkout capabilities, product catalogue, shopping cart management via CRUD Operations, secure checkout alongwith Payment gateway via API Integration
 
 
 
